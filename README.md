@@ -6,17 +6,16 @@
 
 Ce projet vise à développer un modèle de machine learning capable de prédire la qualité du vin en fonction de diverses caractéristiques. 
 
-## Déséquilibre des Données
-
-L'une des principales difficultés de ce projet réside dans le déséquilibre extrême des données. Cela a posé des défis particuliers pour la prédiction des classes minoritaires.
-
 ## Exploration des Données (DataViz)
 
 Nous avons consacré une partie importante du projet à l'exploration visuelle des données (DataViz). Cette étape nous a permis de mieux comprendre la distribution des caractéristiques et les tendances de qualité du vin en fonction de ces caractéristiques.
 
-## Ré-échantillonnage des Données
+## Déséquilibre des Données
 
-Afin de faire face au déséquilibre des données, nous avons effectué des tests de ré-échantillonnage pour équilibrer les classes. Cela a inclus des techniques telles que la sur-échantillonnage (oversampling) des classes minoritaires.
+L'une des principales difficultés de ce projet réside dans le déséquilibre des données. Cela a posé des défis particuliers pour la prédiction des classes minoritaires.
+
+Afin de faire face au déséquilibre des données, nous avons effectué des tests de ré-échantillonnage pour équilibrer les classes.
+
 
 ## Tests de Modèles
 
