@@ -23,6 +23,4 @@ Nous avons effectué des tests approfondis de différents modèles, y compris de
 
 Malgré les ajustements que nous avons apportés, nous avons constaté que la prédiction de la qualité du vin reste un défi complexe en raison de la nature subjective de la qualité du vin et du déséquilibre des données. Notre projet met en évidence les difficultés de la classification dans de telles conditions, tout en explorant diverses stratégies pour améliorer la prédiction.
 
-N'hésitez pas à explorer davantage les données, à ajuster le modèle et à expérimenter avec d'autres méthodes pour améliorer les performances de votre modèle de prédiction de la qualité du vin.
-
 
